@@ -69,3 +69,7 @@ Same output: `tests/golden/*_out.json` were written by new-term-radar's `hf_new`
 
 ## License
 MIT
+
+## Related tools
+- [breakout-panel](https://github.com/Dodai0419/breakout-panel): today's fastest-rising GitHub repos as a live panel
+- All tools, one install pattern: [github.com/Dodai0419](https://github.com/Dodai0419)
