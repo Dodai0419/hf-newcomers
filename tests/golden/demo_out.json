@@ -1,0 +1,28 @@
+{
+ "first_run": false,
+ "terms": [
+  {
+   "term": "krea 2",
+   "rank": 1,
+   "copies": 1,
+   "examples": [
+    "krea/Krea-2 (text-to-image, ♥900)",
+    "krea/Krea-2-demo (gradio, ♥300)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #1"
+  },
+  {
+   "term": "lightonocr 3",
+   "rank": 2,
+   "copies": 1,
+   "examples": [
+    "lighton/LightOnOCR-3-webgpu (static, ♥0)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #2"
+  }
+ ],
+ "models": 2,
+ "spaces": 2
+}

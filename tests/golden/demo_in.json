@@ -1,0 +1,1 @@
+{"before": {"models": [{"id": "old/Old-Model"}], "spaces": [{"id": "old/old-demo"}]}, "after": {"models": [{"id": "krea/Krea-2", "pipeline_tag": "text-to-image", "likes": 900}, {"id": "old/Old-Model"}], "spaces": [{"id": "krea/Krea-2-demo", "sdk": "gradio", "likes": 300}, {"id": "lighton/LightOnOCR-3-webgpu", "sdk": "static"}]}}

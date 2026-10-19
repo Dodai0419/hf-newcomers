@@ -1,0 +1,229 @@
+{
+ "first_run": false,
+ "terms": [
+  {
+   "term": "embeddinggemma 2",
+   "rank": 1,
+   "copies": 1,
+   "examples": [
+    "google/embeddinggemma-2 (feature-extraction, ♥2434)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #1"
+  },
+  {
+   "term": "humanizer",
+   "rank": 2,
+   "copies": 1,
+   "examples": [
+    "jialinyyzz/humanizer (text-generation, ♥1768)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #2"
+  },
+  {
+   "term": "qwen image 2.1",
+   "rank": 3,
+   "copies": 2,
+   "examples": [
+    "Qwen/Qwen-Image-2.1-Turbo (text-to-image, ♥899)",
+    "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF (text-to-image, ♥502)"
+   ],
+   "recent": 2,
+   "note": "Hugging Face: new at #3, 2 versions"
+  },
+  {
+   "term": "minicpm v 4.7",
+   "rank": 4,
+   "copies": 1,
+   "examples": [
+    "openbmb/MiniCPM-V-4.7-35B-A3B (image-text-to-text, ♥806)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #4"
+  },
+  {
+   "term": "qwen image 2.1 quantized",
+   "rank": 5,
+   "copies": 1,
+   "examples": [
+    "abenzerps/Qwen-Image-2.1-Uncensored-Quantized (text-to-image, ♥4400)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #5"
+  },
+  {
+   "term": "drama 3",
+   "rank": 6,
+   "copies": 1,
+   "examples": [
+    "fishaudio/drama-3 (text-to-speech, ♥498)",
+    "fishaudio/Drama-3 (gradio, ♥63)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #6"
+  },
+  {
+   "term": "ltx 2.5",
+   "rank": 7,
+   "copies": 1,
+   "examples": [
+    "Lightricks/LTX-2.5 (image-to-video, ♥7978)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #7"
+  },
+  {
+   "term": "lfm2.5",
+   "rank": 9,
+   "copies": 1,
+   "examples": [
+    "LiquidAI/LFM2.5-24B-A2B (text-generation, ♥397)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #9"
+  },
+  {
+   "term": "unlimited ocr",
+   "rank": 10,
+   "copies": 1,
+   "examples": [
+    "baidu/Unlimited-OCR (image-text-to-text, ♥4718)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #10"
+  },
+  {
+   "term": "qwen3.8",
+   "rank": 11,
+   "copies": 1,
+   "examples": [
+    "Qwen/Qwen3.8-27B (image-text-to-text, ♥17809)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #11"
+  },
+  {
+   "term": "underdog saluki 1.0",
+   "rank": 12,
+   "copies": 1,
+   "examples": [
+    "ConwayResearch/Underdog-Saluki-27B-1.0 (text-generation, ♥502)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face: new at #12"
+  },
+  {
+   "term": "minimax h3",
+   "rank": 1,
+   "copies": 1,
+   "examples": [
+    "Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED (gradio, ♥1618)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #1"
+  },
+  {
+   "term": "jev decision index",
+   "rank": 2,
+   "copies": 1,
+   "examples": [
+    "multimodalart/jev-decision-index (static, ♥687)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #2"
+  },
+  {
+   "term": "wan777",
+   "rank": 3,
+   "copies": 1,
+   "examples": [
+    "kulkas2pintu/wan777 (gradio, ♥575)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #3"
+  },
+  {
+   "term": "bfs best face swap",
+   "rank": 4,
+   "copies": 1,
+   "examples": [
+    "hugging-apps/bfs-best-face-swap (gradio, ♥282)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #4"
+  },
+  {
+   "term": "qwen image 21",
+   "rank": 5,
+   "copies": 1,
+   "examples": [
+    "vclnhihihi/qwen-image-21-uncensored (gradio, ♥108)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #5"
+  },
+  {
+   "term": "shorts",
+   "rank": 6,
+   "copies": 1,
+   "examples": [
+    "autotrust/shorts (static, ♥151)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #6"
+  },
+  {
+   "term": "qwen image 2.1 viggle",
+   "rank": 7,
+   "copies": 1,
+   "examples": [
+    "Viggle/Qwen-Image-2.1-viggle-turbo (gradio, ♥320)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #7"
+  },
+  {
+   "term": "news",
+   "rank": 8,
+   "copies": 1,
+   "examples": [
+    "autotrust/news (static, ♥155)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #8"
+  },
+  {
+   "term": "model pulse",
+   "rank": 9,
+   "copies": 1,
+   "examples": [
+    "tardellirs/model-pulse (static, ♥221)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #9"
+  },
+  {
+   "term": "krea 2 v2",
+   "rank": 10,
+   "copies": 1,
+   "examples": [
+    "Aura1in/Krea-2-Turbo_v2 (gradio, ♥117)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #10"
+  },
+  {
+   "term": "qwen qwen image 2 1",
+   "rank": 12,
+   "copies": 1,
+   "examples": [
+    "hugging-apps/qwen-qwen-image-2-1-turbo (gradio, ♥73)"
+   ],
+   "recent": 1,
+   "note": "Hugging Face Spaces: new at #12"
+  }
+ ],
+ "models": 100,
+ "spaces": 100
+}

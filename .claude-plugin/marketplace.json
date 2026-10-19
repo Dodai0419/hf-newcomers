@@ -1,0 +1,1 @@
+{"name":"hf-newcomers","owner":{"name":"Dodai0419"},"plugins":[{"name":"hf-newcomers","source":"./","description":"List the Hugging Face models and Spaces that just entered trending. One stdlib file, both lists fetched in parallel."}]}
